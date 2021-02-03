@@ -15,7 +15,7 @@
 })();
 function titulo(){
 var ti=document.getElementById("gameTitle");
-ti.innerText="BLOBLE.JS";
+ti.innerText="BLOBLE.KENGO";
 ti.style.backgroundColor="rgba(0, 0, 0, 0.4)"
 }
 function cor(){
